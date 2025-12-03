@@ -1,0 +1,72 @@
+
+# 2025-12-03 09:22:44.023230
++Code the following app
++```
++Build a single-page mobile-friendly mini-app called Two-Pill Habit (Minimal).
++
++Show two large “pill” choices side-by-side (stack on narrow screens). Each pill contains a short habit (text + emoji) and a short reward line.
++
++A Random button generates two different random habits (from a small built-in list).
++
++User taps one pill to commit; the selected pill is highlighted and a Done button appears.
++
++When Done is tapped show a success message and display the reward (no persistence, no history). Optionally show a tiny confetti emoji/animation.
++
++No localStorage, no server, no settings, no footer. Keep everything in memory for the current session only.
++
++Mobile-first layout, simple modern styling, accessible large buttons.
++
++Tech: single HTML file with plain JS (or React if preferred), tiny and readable.
++
++Sample habit pool (use these as seeds):
++["10 push-ups 💪", "5-minute walk 🚶", "Drink 2 glasses of water 💧", "Read 5 pages 📘", "15 squats 🦵", "Cook a healthy snack 🍲", "5-minute stretch 🧘", "Write one sentence ✍️"]
++
++Sample reward styles (display-only):
++
++“Reward: Reduce next push-up set by 2”
++
++“Reward: +1 Treat Token (just shown)”
++
++“Reward: 5-min break (you earned it)”
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-12-03 09:22:44.024148
++Code the following app
++```
++Build a single-page mobile-friendly mini-app called Two-Pill Habit (Minimal).
++
++Show two large “pill” choices side-by-side (stack on narrow screens). Each pill contains a short habit (text + emoji) and a short reward line.
++
++A Random button generates two different random habits (from a small built-in list).
++
++User taps one pill to commit; the selected pill is highlighted and a Done button appears.
++
++When Done is tapped show a success message and display the reward (no persistence, no history). Optionally show a tiny confetti emoji/animation.
++
++No localStorage, no server, no settings, no footer. Keep everything in memory for the current session only.
++
++Mobile-first layout, simple modern styling, accessible large buttons.
++
++Tech: single HTML file with plain JS (or React if preferred), tiny and readable.
++
++Sample habit pool (use these as seeds):
++["10 push-ups 💪", "5-minute walk 🚶", "Drink 2 glasses of water 💧", "Read 5 pages 📘", "15 squats 🦵", "Cook a healthy snack 🍲", "5-minute stretch 🧘", "Write one sentence ✍️"]
++
++Sample reward styles (display-only):
++
++“Reward: Reduce next push-up set by 2”
++
++“Reward: +1 Treat Token (just shown)”
++
++“Reward: 5-min break (you earned it)”
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-12-03 09:23:19.604497
++apply changes
+
+# 2025-12-03 09:23:19.604785
++apply changes
